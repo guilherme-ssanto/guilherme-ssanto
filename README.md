@@ -5,7 +5,7 @@
 
 Analista de Dados na [TM1](https://tm1.com.br) 💚.  
 Este é o meu [portfólio](https://github.com/guilherme-ssanto?tab=repositories) com alguns projetos.   
-Eu também tenho um site, hospedado aqui no GitHub. Dê uma olhada! link: **em criação**
+Eu também tenho um site, hospedado aqui no GitHub. Dê uma olhada! link: https://guilherme-ssanto.github.io/
 
 👨🏻‍💻 Ferramentas com quais trabalho constantemente: **Python**, **R**, **SQL**, **Google Data Studio**, **Power BI**, **Excel**, **Google Sheets**.
 
